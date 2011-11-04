@@ -5,8 +5,9 @@ filetransferdaemon (0.51) vincent hugo; urgency=low
   * Link to tcl8.5 (needed but not really used)
   * Switch EUtils::Thread to boost::thread
   * Remove sleep in SocketFdDownloader
+  * fix dependicies for libcurl4
 
- -- Carl Fürstenberg <azatoth@gmail.com>  Fri, 04 Nov 2011 14:44:02 +0100
+ -- Carl Fürstenberg <azatoth@gmail.com>  Fri, 04 Nov 2011 14:46:10 +0100
 
 filetransferdaemon (0.50.26) vincent hugo; urgency=low
 
